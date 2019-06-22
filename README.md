@@ -1,4 +1,4 @@
 # Flappy-Bird
-Basic Java Flappy Bird with several interface options
+Flappy Bird in Java with several interface options
 
 * *src contains required image files (formatted in windows file path)*
